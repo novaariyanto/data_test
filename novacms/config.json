@@ -1,0 +1,6 @@
+{
+    "base_url"      : "http://localhost/cms-json/",
+    "nama_aplikasi" : "Seputar Tekno",
+    "Deskripsi"     : "Informasi Teknologi Terpercaya dan Tercepat",
+    "url_database"  : "https://raw.githubusercontent.com/novaariyanto/data_test/master/novacms/database.json"
+}
